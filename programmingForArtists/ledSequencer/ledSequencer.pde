@@ -1,3 +1,6 @@
+//Project for Programming for Artists, Aalto Media Lab
+//Sourya Sen 2016
+
 import org.puredata.processing.*;
 import cc.arduino.*;
 import org.firmata.*;
@@ -59,12 +62,8 @@ void draw(){
   pd.sendFloat("scaleRange", pot0_out);
   pd.sendFloat("tempoRange", pot1_out);
   pd.sendFloat("velocityRange", random(pot2_out));
-  
-  ////Receive back the values from Pd
-  //pd.receiveFloat("notein", notein);
-  //pd.receiveFloat("velocityin", velocityin);
-  //pd.receiveFloat("durationin", durationin);
-  
+
+  //Setting notes to corresponding pins
   switch (notein){
     case 55:
     pin = 3;
