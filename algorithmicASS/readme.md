@@ -8,11 +8,11 @@ The Algorithmic ASS (Attention Seeking Sequencer) started off as a simple idea o
 Explored through sound, this project aims to break the notions of machines being perfect and how they’re used. If machines had their own personality disorders how is it like to interact with them? Will users be more empathic to machines if they were more like humans and had inherent flaws? Is it time to stop working towards perfection and embrace humanity in technology?
 
 ####Hardware
-1x Teensy Micro Controller
-1x Teensy Audio Shield
-2x 100ohm Potentiometers
-1x LED
-1x Toggle Switch
+1x Teensy Micro Controller  
+1x Teensy Audio Shield  
+2x 100ohm Potentiometers  
+1x LED  
+1x Toggle Switch  
 
 ####Schematics
 ![Schematics](Screenshots/Schematic.png)
