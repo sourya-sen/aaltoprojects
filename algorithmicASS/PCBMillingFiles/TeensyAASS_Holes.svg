@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 20.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns:svg="http://www.w3.org/2000/svg"
+	 xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 141.7 198.4"
+	 style="enable-background:new 0 0 141.7 198.4;" xml:space="preserve">
+<g>
+	<g transform="translate(104.748,165.882)">
+		<g id="copper0">
+			<circle id="nonconn0" cx="-79.6" cy="11.8" r="3.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(115.548,9.28184)">
+		<g id="copper0_1_">
+			<circle id="nonconn0_1_" cx="-101.2" cy="11.8" r="3.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(3.94848,129.882)">
+		<g id="copper0_2_">
+			<circle id="nonconn0_2_" cx="122" cy="11.8" r="3.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(2.14848,2.08184)">
+		<g id="copper0_3_">
+			<circle id="nonconn0_3_" cx="125.6" cy="11.8" r="3.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(59.4266,8.96)">
+		<g id="copper0_4_">
+			<circle id="connector0pin" cx="10.8" cy="12.1" r="2.1"/>
+			<circle id="connector1pin" cx="10.8" cy="19.3" r="2.1"/>
+			<circle id="connector2pin" cx="10.8" cy="26.5" r="2.1"/>
+			<circle id="connector3pin" cx="10.8" cy="33.7" r="2.1"/>
+			<circle id="connector4pin" cx="10.8" cy="40.9" r="2.1"/>
+			<circle id="connector5pin" cx="10.8" cy="48.1" r="2.1"/>
+			<circle id="connector6pin" cx="10.8" cy="55.3" r="2.1"/>
+			<circle id="connector7pin" cx="10.8" cy="62.5" r="2.1"/>
+			<circle id="connector8pin" cx="10.8" cy="69.7" r="2.1"/>
+			<circle id="connector9pin" cx="10.8" cy="76.9" r="2.1"/>
+			<circle id="connector10pin" cx="10.8" cy="84.1" r="2.1"/>
+			<circle id="connector11pin" cx="10.8" cy="91.3" r="2.1"/>
+			<circle id="connector12pin" cx="10.8" cy="98.5" r="2.1"/>
+			<circle id="connector13pin" cx="10.8" cy="105.7" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(102.627,8.96)">
+		<g id="copper0_5_">
+			<circle id="connector0pin_1_" cx="-75.6" cy="12.1" r="2.1"/>
+			<circle id="connector1pin_1_" cx="-75.6" cy="19.3" r="2.1"/>
+			<circle id="connector2pin_1_" cx="-75.6" cy="26.5" r="2.1"/>
+			<circle id="connector3pin_1_" cx="-75.6" cy="33.7" r="2.1"/>
+			<circle id="connector4pin_1_" cx="-75.6" cy="40.9" r="2.1"/>
+			<circle id="connector5pin_1_" cx="-75.6" cy="48.1" r="2.1"/>
+			<circle id="connector6pin_1_" cx="-75.6" cy="55.3" r="2.1"/>
+			<circle id="connector7pin_1_" cx="-75.6" cy="62.5" r="2.1"/>
+			<circle id="connector8pin_1_" cx="-75.6" cy="69.7" r="2.1"/>
+			<circle id="connector9pin_1_" cx="-75.6" cy="76.9" r="2.1"/>
+			<circle id="connector10pin_1_" cx="-75.6" cy="84.1" r="2.1"/>
+			<circle id="connector11pin_1_" cx="-75.6" cy="91.3" r="2.1"/>
+			<circle id="connector12pin_1_" cx="-75.6" cy="98.5" r="2.1"/>
+			<circle id="connector13pin_1_" cx="-75.6" cy="105.7" r="2.1"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(12.6346,141.273)">
+		<g transform="matrix(1,0,0,1,0,0)">
+			<g id="copper0_6_">
+				<circle id="connector0pin_2_" cx="104.3" cy="18.4" r="2.1"/>
+				<circle id="connector1pin_2_" cx="104.3" cy="25.6" r="2.1"/>
+				<circle id="connector2pin_2_" cx="104.3" cy="32.8" r="2.1"/>
+				<g>
+					<circle id="noconnector" cx="83.1" cy="11.6" r="3.8"/>
+					<circle id="noconnector_1_" cx="83.1" cy="39.6" r="3.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(18.0346,15.273)">
+		<g transform="matrix(1,0,0,1,0,0)">
+			<g id="copper0_7_">
+				<circle id="connector0pin_3_" cx="93.5" cy="18.4" r="2.1"/>
+				<circle id="connector1pin_3_" cx="93.5" cy="25.6" r="2.1"/>
+				<circle id="connector2pin_3_" cx="93.5" cy="32.8" r="2.1"/>
+				<g>
+					<circle id="noconnector_2_" cx="72.3" cy="11.6" r="3.8"/>
+					<circle id="noconnector_3_" cx="72.3" cy="39.6" r="3.8"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(88.2802,139.428)">
+		<g transform="matrix(0,-1,1,0,0,0)">
+			<g id="copper0_8_">
+				<g id="copper1">
+					<circle id="connector1pad" cx="1.7" cy="-52.5" r="1.7"/>
+					<rect x="0" y="-54.2" transform="matrix(-2.535182e-06 -1 1 -2.535182e-06 54.2491 -50.8475)" width="3.4" height="3.4"/>
+					<circle id="connector0pad" cx="1.7" cy="-45.5" r="1.7"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+<g>
+	<g transform="translate(42.8666,97.52)">
+		<g id="copper0_9_">
+			<rect id="square" x="41.8" y="10" width="4.2" height="4.2"/>
+			<circle id="connector0pin_4_" cx="43.9" cy="12.1" r="2.1"/>
+			<circle id="connector1pin_4_" cx="43.9" cy="19.3" r="2.1"/>
+			<circle id="connector2pin_4_" cx="43.9" cy="26.5" r="2.1"/>
+		</g>
+	</g>
+</g>
+<rect id="connector0pad_1_" x="103" y="87.4" width="2.8" height="4.3"/>
+<rect id="connector1pad_1_" x="115.4" y="87.4" width="2.8" height="4.3"/>
+<rect id="connector0pad_2_" x="56.2" y="166.6" width="2.8" height="4.3"/>
+<rect id="connector1pad_2_" x="68.6" y="166.6" width="2.8" height="4.3"/>
+<path d="M0,0v198.4h141.7V0H0z M134.4,191.1H7.4V7.4h127V191.1z"/>
+</svg>
