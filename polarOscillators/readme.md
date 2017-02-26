@@ -5,10 +5,10 @@ Developed during the Generative Media Coding workshop taught by Nuno Correia at 
 Executable can be downloaded here. [Mac only, unsigned. The OS will cry if Gatekeeper is on.]
 
 ####Screenshot (Clean)
-![Screenshot Clean](/screenshots/polarOsc_Clean.png)
+![Screenshot Clean](screenshots/polarOsc_Clean.png)
 
 ####Screenshot (wtih HUD)
-![Screenshot w/ HUD](/screenshots/polarOsc_HUD.png)
+![Screenshot w/ HUD](screenshots/polarOsc_HUD.png)
 
 ####Controls
 Pressing 'h' toggles the HUD.<br>
