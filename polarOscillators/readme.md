@@ -2,7 +2,7 @@
 ####An audiovisual semi-autonomous system of oscillators mapped in a polar space.
 Developed during the Generative Media Coding workshop taught by Nuno Correia at Aalto Media Lab, 2017.
 
-Executable can be downloaded here. [Mac only, unsigned. The OS will cry if Gatekeeper is on.]
+Executable can be downloaded [here](https://dl.dropboxusercontent.com/u/37671700/polarOscillators.dmg). [Mac only, unsigned. The OS will cry if Gatekeeper is on.]
 
 ####Screenshot (Clean)
 ![Screenshot Clean](screenshots/polarOsc_Clean.png)
