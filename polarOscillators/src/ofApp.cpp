@@ -7,6 +7,8 @@ void ofApp::setup(){
     //---------------- ofApp Setup.
     
     ofSetFrameRate(60);
+    ofSetWindowTitle("polarOscillators V0.1");
+    ofSetEscapeQuitsApp(false);
     
     sampleRate 	= 44100;
     bufferSize	= 512;

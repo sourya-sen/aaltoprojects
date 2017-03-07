@@ -1,3 +1,5 @@
+//Sourya Sen, 2017, Aalto Media Lab
+
 #pragma once
 
 #include "ofMain.h"
